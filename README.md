@@ -1,1 +1,1 @@
-Creation of a full feature blog style web application with Flask in Python, with a user management system, connection to SQL Database, features like users authentification, accepting users input from forms, email reset and save information into the backend file system.
+Creation of a full feature blog style web application with Flask in Python, with a user management system, connection to SQL Database, features like user authentication, accepting users input from forms, email reset and save information into the backend file system.
